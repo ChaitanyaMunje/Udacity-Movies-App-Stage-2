@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies App Stage -2</string>
+    <string name="favorite">favorite</string>
+    <string name="movie_poster">Movie Poster Details</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_overview">Movie Overview</string>
+    <string name="videos">Videos</string>
+    <string name="reviews">Reviews</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="author_name">Author Name</string>
+    <string name="review">Review</string>
+    <string name="video_title">Video Title</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="fav_txt">Favourite</string>
+</resources>
